@@ -1,4 +1,4 @@
-# dongtu_2nd_course_labs
+# dongtu_2nd_semestr_labs
 Eng:
 My lab works in the discipline of Fundamentals of Programming in DonGTU for the second semester.
 Ру:
